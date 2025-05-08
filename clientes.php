@@ -48,5 +48,8 @@ $resultado = $conexion->query($sql);
     </tr>
     <?php } ?>
 </table>
+<form action="index.php" method="get">
+    <button type="submit">Regresar al Menú Principal</button>
+</form>
 </body>
 </html>

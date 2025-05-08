@@ -88,6 +88,9 @@ $productos = $conexion->query("SELECT * FROM cat_Productos");
         }
         ?>
     </table>
+<form action="index.php" method="get">
+    <button type="submit">Regresar al Menú Principal</button>
+</form>
 </body>
 </html>
 

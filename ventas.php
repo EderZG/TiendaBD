@@ -37,5 +37,8 @@ $ventas = $conexion->query("SELECT * FROM ventas");
             </tr>
         <?php } ?>
     </table>
+<form action="index.php" method="get">
+    <button type="submit">Regresar al Menú Principal</button>
+</form>
 </body>
 </html>

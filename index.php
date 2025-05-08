@@ -15,7 +15,7 @@
         <li><a href="marcas.php">Marcas</a></li>
         <li><a href="categorias.php">Categorías</a></li>
         <li><a href="ventas.php">Ventas</a></li>
-        <li><a href="det_ventas.php?id_vta=1">Detalle de Ventas</a> (manual para venta 1)</li>
+        
     </ul>
 </body>
 </html>
