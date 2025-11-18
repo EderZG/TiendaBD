@@ -1,0 +1,21 @@
+# --- IMAGES ---
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+*.bmp   binary
+*.svg   binary
+
+# --- OTHER BINARY FILES ---
+*.ico   binary
+*.pdf   binary
+*.zip   binary
+*.rar   binary
+*.7z    binary
+
+# --- CODE FORMATTING (OPTIONAL, HELPFUL) ---
+*.php   text eol=lf
+*.html  text eol=lf
+*.css   text eol=lf
+*.js    text eol=lf
+*.md    text eol=lf
